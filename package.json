@@ -1,0 +1,16 @@
+{
+    "name": "final_project",
+    "version": "1.0.0",
+    "description": "Final project of the javascript basics module.",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "R. van den Berg",
+    "license": "ISC",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
